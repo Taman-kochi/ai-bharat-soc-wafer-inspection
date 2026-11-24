@@ -1,0 +1,17 @@
+.venv/
+out/
+__pycache__/
+*.py[cod]
+*.cache
+data/SHA256.zip.txt
+data/external/DEDUPE_REPORT.json
+data/external/thermal_unique.json
+data/external/deeptech2026-Quadbits-main/modelv1/
+data/external/deeptech2026-Quadbits-main/*.pdf
+data/external/deeptech2026-Quadbits-main/*.pptx
+data/external/deeptech2026-Quadbits-main/*.txt
+data/external/deeptech2026-Quadbits-main/*.md
+!data/external/deeptech2026-Quadbits-main/readme.md
+.env
+.env.*
+!.env.example
