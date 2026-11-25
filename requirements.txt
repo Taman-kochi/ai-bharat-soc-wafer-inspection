@@ -1,0 +1,6 @@
+# CPU PyTorch wheels must be installed first, from the CPU index:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+ultralytics==8.4.216
+opencv-python
+pillow
+pydantic>=2,<3
